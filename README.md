@@ -2,4 +2,4 @@
 Workshop Data Science for Marketing Analytic
 
 Link Dataset, Download here:
-bit.ly/psd_workshop1
+https://bit.ly/psd_workshop1
